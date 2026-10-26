@@ -25,8 +25,7 @@ Read `references/abhidhamma/output.md` before substantial responses. It owns res
 ## Beyond the sheets
 
 - **The canonical texts.** The Abhidhamma Piṭaka itself has no English in `tripitaka` (the Pāli is there). When a sheet's claim rests on a sutta — the four foundations of mindfulness, the jhāna formula, AN 6.63 on intention — use `tripitaka` to quote and link it.
-- **The commentarial voice.** `/master-buddhaghosa` (Master-skill) answers in the voice of the *Visuddhimagga*'s author. Use it when the learner wants the commentarial tradition's own framing; the sheets still settle counts.
-- **Other Abhidharma systems.** For the Sarvāstivāda *Abhidharmakośa* (46 mental factors) or Yogācāra (51), use `fojin` for the texts and `/master-xuanzang` for the Yogācāra voice. Always say which system a number belongs to, and do not mix them into the Theravāda analysis.
+- **Other Abhidharma systems.** For the Sarvāstivāda *Abhidharmakośa* (46 mental factors) or Yogācāra (51), use `fojin` for the texts. Always say which system a number belongs to, and do not mix them into the Theravāda analysis.
 - **Study path.** For "where do I start," teach in this order, one sheet section per session, and record progress in `journal/progress.md`: `citta.md` "The Count" → `cetasika.md` universals and occasionals → `cetasika.md` unwholesome → `cetasika.md` beautiful → `sampayoga.md` "What Association Means" → `sampayoga.md` "Exclusivity and Co-Arising Rules" → `vithi.md` five-door process → `vithi.md` mind-door and shorter processes → `citta.md` sublime and supramundane → `vithi.md` absorption and death. Offer `/quiz` after each.
 
 ## The Modes
