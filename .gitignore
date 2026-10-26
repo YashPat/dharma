@@ -1,0 +1,5 @@
+# Personal study material stays local.
+journal/*
+!journal/README.md
+.claude/settings.local.json
+.DS_Store

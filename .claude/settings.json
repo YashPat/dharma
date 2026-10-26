@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "master-skill": {
+      "source": {
+        "source": "github",
+        "repo": "xr843/Master-skill"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "master-skill@master-skill": true
+  }
+}

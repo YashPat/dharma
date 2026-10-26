@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tripitaka": {
+      "type": "http",
+      "url": "https://mcp.tripitaka-mcp.com/mcp"
+    },
+    "fojin": {
+      "type": "http",
+      "url": "https://mcp.fojin.ai/mcp"
+    }
+  }
+}
