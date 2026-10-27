@@ -30,10 +30,9 @@ Both servers are public and hosted, and need no keys. The three skills cover wha
 
 The Abhidhamma sheets come from [abhidhamma](https://github.com/YashPat/abhidhamma); refresh them with `scripts/sync-abhidhamma.sh`.
 
-## Optional
+## Run offline
 
-- **Tradition personas:** [Master-skill](https://github.com/xr843/Master-skill) adds 16 historical masters and compare and debate modes (Chinese-first). Install it with `/plugin marketplace add xr843/Master-skill`, then `/plugin install master-skill@master-skill`.
-- **Run offline:** `pipx install tripitaka-mcp && tripitaka-mcp init`, then set `.mcp.json` to `"tripitaka": {"command": "tripitaka-mcp", "args": ["serve"]}`.
+`pipx install tripitaka-mcp && tripitaka-mcp init`, then set `.mcp.json` to `"tripitaka": {"command": "tripitaka-mcp", "args": ["serve"]}`.
 
 ## Boundaries
 
